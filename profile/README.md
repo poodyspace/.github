@@ -1,1 +1,1 @@
-## Hi there 👋 e create Solana Bots
+## Hi there, we create Solana Bots
