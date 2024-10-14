@@ -1,3 +1,3 @@
 ## Hi there, we create Solana Bots 🐦
 
-Check out our [Solana Bots](https://github.com/poodyspace/bots).
+Check out our [Solana Bots](https://github.com/poodyspace/bot_releases).
